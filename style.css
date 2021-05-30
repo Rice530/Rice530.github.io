@@ -1,10 +1,18 @@
 body {
-    background: #F1DFCE;
-	font-family: 'Courier New', monospace;
+	text-align: center;
+    background: linear-gradient(to bottom right, white, #DEF4F9
+);
+	
+	font-family: 'Trebuchet MS', 'sans-serif';
+	font-size: 200;
 }
 
 h1 {
-	font-size: 30
+	text-align: center;
+	font-size: 200;
+	color: black;
 }
 
-body
+#grad {
+  background-image: linear-gradient(red, yellow);
+}
